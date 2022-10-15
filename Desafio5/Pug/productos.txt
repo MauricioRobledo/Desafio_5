@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Galletas surtidas",
+    "price": "250",
+    "thumbnail": "https://arcorencasa.com/wp-content/uploads/2021/03/20210301-13276.png"
+  },
+  {
+    "id": 2,
+    "title": "Papas fritas Lays",
+    "price": "300",
+    "thumbnail": "https://www.multifood.com.ar/images/000Z-007-001-00190159z-001-001-001-lays-clasica.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Galletas Oreo",
+    "price": "2500",
+    "thumbnail": "https://www.distribuidorapop.com.ar/wp-content/uploads/2019/05/galletitas-oreo-venta-ml-768x768.jpg"
+  },
+  {
+    "id": 4,
+    "title": "conitos",
+    "price": "330",
+    "thumbnail": "https://almacenfamily.com/productos/megatube-3d-Queso.png"
+  },
+  {
+    "id": 5,
+    "title": "Doritos",
+    "price": "400",
+    "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/637000/Doritos-Queso-220-Gr-1-859483.jpg?v=637536226626400000"
+  }
+]
